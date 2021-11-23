@@ -9,3 +9,20 @@
   <li>11S18041 Grace Widya Simanjuntak</li>
   <li>11S18048 Romual Naibaho</li>
 </ol>
+
+<h1 style="font-weight: bold">Daftar Isi</h1>
+<ol>
+  <li>Pendahuluan</li>
+  <ul>
+    <li>Latar Belakang</li>
+    <li>Rumusan Masalah</li>
+    <li>Tujuan Penelitian</li>
+    <li>Manfaat Penelitian</li>
+    <li>Ruang Lingkup Penelitian</li>
+    <li>Hasil Penelitian</li>
+  </ul>
+  <li>Hasil</li>
+  <ul>
+    <li>Model</li>
+  </ul>
+</ol>
