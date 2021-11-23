@@ -31,7 +31,7 @@
 
 <h2 id="pendahuluan">Pendahuluan</h2>
 <br/>
-<p style="font-weight: bold">Latar Belakang</p>
+<h4 style="font-weight: bold">Latar Belakang</h4>
 <p>
 Emosi adalah pola reaksi yang kompleks, yang melibatkan pengalaman, perilaku, dan fisiologis, di mana seorang individu mencoba untuk menangani masalah atau peristiwa yang signifikan secara pribadi. Dalam kehidupan sehari-hari, penyampaian emosi dapat disampaikan secara non-verbal menggunakan ekspresi wajah maupun verbal berupa tingkah laku. Emosi bersifat subjektif dan temporer yang muncul atau dipicu oleh stimulus seperti perlakuan dari orang sekitar atau lingkungannya.
 </p>
