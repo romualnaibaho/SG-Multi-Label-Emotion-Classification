@@ -12,7 +12,7 @@
 
 <h1 style="font-weight: bold">Daftar Isi</h1>
 <ol>
-  <li>Pendahuluan</li> (#Pendahuluan) 
+  <li><a href="#pendahuluan">Pendahuluan</a></li>
   <ul>
     <li>Latar Belakang</li>
     <li>Rumusan Masalah</li>
@@ -29,4 +29,4 @@
 
 <hr/>
 
-## Pendahuluan
+<h2 id="pendahuluan">Pendahuluan</h2>
