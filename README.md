@@ -7,5 +7,5 @@
   <li>11S18013 Grace Noelia Simorangkir</li>
   <li>11S18040 Anjel Riska Pardede</li>
   <li>11S18041 Grace Widya Simanjuntak</li>
-  <li>11S18048 Romual Naibaho/li>
+  <li>11S18048 Romual Naibaho</li>
 </ol>
