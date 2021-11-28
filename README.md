@@ -19,8 +19,8 @@
     <li><a href="#tp">Tujuan Penelitian</a></li>
     <li><a href="#mp">Manfaat Penelitian</a></li>
     <li><a href="#rlp">Ruang Lingkup Penelitian</a></li>
-    <li><a href="#hp">Hasil Penelitian</a></li>
   </ul>
+  <li><a href="#hp">Hasil Penelitian</a></li>
 </ol>
 
 <hr/>
