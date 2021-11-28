@@ -59,7 +59,7 @@ Deteksi emosi dilakukan dengan pendekatan klasifikasi emosi. Klasifikasi adalah 
 <br/>
 
 <h2 id="hp" style="font-weight: bold">Hasil Penelitian</h2>
-![Classification Report](https://romualnaibaho.000webhostapp.com/img/a.jpg)
+![a](https://user-images.githubusercontent.com/74808767/143774511-93ce1468-79f8-4ed8-9feb-dc60e3e1ed87.jpg)
 ![Nilai Akurasi](https://romualnaibaho.000webhostapp.com/img/a.jpg)
 <ul>
   <li>Precision atau Presisi adalah representasi tingkat ketepatan antara data yang diinginkan dengan hasil prediksi model. Precision membandingkan prediksi True Positive dengan semua hasil prediksi yang positif. Berdasarkan hasil precision yang didapatkan, nilai tertinggi berada pada label ke-27 (Label Neutral) yaitu sebanyak 0,34 poin. Hal ini mengindikasikan bahwa model mampu memprediksi label Neutral dengan benar lebih banyak dibandingkan label-label lainnya. Pada posisi kedua terdapat label ke-0 (Label Admiration) yaitu sebanyak 0,10 poin dan selebihnya hanya mendapatkan nilai precision sebanyak < 0,1 poin.</li>
