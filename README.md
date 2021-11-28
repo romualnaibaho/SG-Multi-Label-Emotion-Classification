@@ -59,8 +59,8 @@ Deteksi emosi dilakukan dengan pendekatan klasifikasi emosi. Klasifikasi adalah 
 <br/>
 
 <h2 id="hp" style="font-weight: bold">Hasil Penelitian</h2>
-<img href="https://romualnaibaho.000webhostapp.com/img/a.jpg"></img>
-<img href="https://romualnaibaho.000webhostapp.com/img/b.jpg"></img>
+![Classification Report](https://romualnaibaho.000webhostapp.com/img/a.jpg)
+![Nilai Akurasi](https://romualnaibaho.000webhostapp.com/img/a.jpg)
 <ul>
   <li>Precision atau Presisi adalah representasi tingkat ketepatan antara data yang diinginkan dengan hasil prediksi model. Precision membandingkan prediksi True Positive dengan semua hasil prediksi yang positif. Berdasarkan hasil precision yang didapatkan, nilai tertinggi berada pada label ke-27 (Label Neutral) yaitu sebanyak 0,34 poin. Hal ini mengindikasikan bahwa model mampu memprediksi label Neutral dengan benar lebih banyak dibandingkan label-label lainnya. Pada posisi kedua terdapat label ke-0 (Label Admiration) yaitu sebanyak 0,10 poin dan selebihnya hanya mendapatkan nilai precision sebanyak < 0,1 poin.</li>
   <li>Recall adalah rasio prediksi benar positif dibandingkan dengan keseluruhan data yang benar positif. Berdasarkan hasil classification_report, nilai recall tertinggi diperoleh pada label ke-15 (label Gratitude) yaitu sebanyak 0,94 poin. Dari nilai tersebut dapat diperoleh informasi bahwa model memprediksi data dengan label Gratitude lebih banyak dibandingkan label lainnya. Hal ini mengindikasikan bahwa data dengan label Graditude lebih banyak diprediksi dengan benar dibandingkan label-label lainnya. Sedangkan label dengan hasil recall yang paling kecil terdapat pada label ke-16 (Label Grief). Hal ini mengindikasikan bahwa data dengan label Grief lebih sedikit diprediksi dengan benar oleh model klasifikasi.</li>
